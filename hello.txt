@@ -6,4 +6,4 @@ hello git! hello world!
 hello git! hello world! git master test
 hello git! hello world!
 hello git! hello world!
-hello git! hello world!
+hello git! hello world! hot-fix test
